@@ -1,0 +1,68 @@
+"tweet_id","in_reply_to_status_id","in_reply_to_user_id","retweeted_status_id","retweeted_status_user_id","timestamp","source","text","expanded_urls"
+"230346965890781184","","","230345896028696576","11322372","2012-07-31 16:59:30 +0000","<a href=""http://twicca.r246.jp/"" rel=""nofollow"">twicca</a>","RT @holman: yo? mamma?s so agile she had to take the SAT twice because she started off by writing a failing test"
+"230006774432931840","229966749729177600","30923","","","2012-07-30 18:27:43 +0000","web","@rands 
+class Qualitative
+  bool good
+  bool bad
+end
+
+!Qualitative.good does not imply Qualitative.bad."
+"228825002902962176","","","","","2012-07-27 12:11:46 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","Great article on brains, document management, and software. http://t.co/5tPAwfo7","http://informationarchitects.net/blog/mountain-lions-new-file-system/"
+"228681223529168896","228675695688163328","17543347","","","2012-07-27 02:40:27 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@kjaleshire I had a different account years back. Maybe you followed it but not this one."
+"228614527565037568","228614213923389440","17543347","","","2012-07-26 22:15:25 +0000","web","@kjaleshire I had the same experience, actually."
+"228614483650674688","228614213923389440","17543347","","","2012-07-26 22:15:15 +0000","web","@kjaleshire If it were just for me, I'd probably use some markdown-backed static HTML thing like jekyll."
+"228614071216386049","228613814231392257","17543347","","","2012-07-26 22:13:36 +0000","web","@kjaleshire I'm not sure there's actually a better general-purpose blog engine for the masses."
+"228613744794681345","228613356288897024","17543347","","","2012-07-26 22:12:18 +0000","web","@kjaleshire That's not fair, though. Wordpress is pretty nice. I just wouldn't want to have to hack on it except maybe /(CS)|JS/"
+"228613443916271616","228613356288897024","17543347","","","2012-07-26 22:11:07 +0000","web","@kjaleshire Oh god. Why?"
+"228613241469825024","228613082191114240","17543347","","","2012-07-26 22:10:18 +0000","web","@kjaleshire What about you?"
+"228613209618255872","228613082191114240","17543347","","","2012-07-26 22:10:11 +0000","web","@kjaleshire Ruby on Rails, javascript, and tests. Oh so many tests."
+"228612766058024960","228612488911003648","17543347","","","2012-07-26 22:08:25 +0000","web","@kjaleshire Very nice. I think I still get a 10% discount for being a student. Or maybe it's just a $100 gift card."
+"228612273890004993","228611340166643713","17543347","","","2012-07-26 22:06:28 +0000","web","@kjaleshire Dividend? It's bonus time at work in a couple weeks."
+"228612078309613568","228546452568285184","11322372","","","2012-07-26 22:05:41 +0000","web","@holman Actually, you can't see _any_ of the pixels before downscaling to a shitty 1024x768 projector."
+"228611557037334528","","","228580928472104960","15948437","2012-07-26 22:03:37 +0000","web","RT @spolsky: You can say ""YouTube Comments"" to ANYBODY in the WORLD and they'll know EXACTLY what you mean. And for that, I thank them."
+"228611216992514048","228611002734878720","17543347","","","2012-07-26 22:02:16 +0000","web","@kjaleshire No kidding. Thinking about a Retina Macbook Pro in the near future, though."
+"228610706986119168","228595973021118465","17543347","","","2012-07-26 22:00:14 +0000","web","@kjaleshire CinemaDisplay time."
+"228541261307596800","228539393319788544","1676051","","","2012-07-26 17:24:17 +0000","<a href=""http://twicca.r246.jp/"" rel=""nofollow"">twicca</a>","@seanstickle it was better before,  so it will have to be pretty awesome to match up to preconceptions."
+"227951461026390016","227951202296532992","14231571","","","2012-07-25 02:20:38 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@marcoarment Why is that?"
+"227613524866781184","227509665309790208","638323","","","2012-07-24 03:57:47 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@kneath
+
+ Social Network =&gt; Internet Network: kinda awkward, but let it slide.
+
+LivingSocial =&gt; LivingInternet: creepy?"
+"226932859489890304","","","","","2012-07-22 06:53:05 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","When the government controls guns, only honest civilians will be unarmed. http://t.co/49kXReU7","http://twitter.com/thompson_caleb/status/226932859489890304/photo/1"
+"226862437029257216","","","226860739829309440","44282335","2012-07-22 02:13:14 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @dozba: @kevindente I think it happened once in 1776. Not sure though."
+"226862335367733249","","","226855219219271680","778112","2012-07-22 02:12:50 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @kevindente: @dozba are there examples where US citizens have legally exercised their right to bear arms to defend themselves from go ..."
+"226862314228424705","","","226844082058690560","44282335","2012-07-22 02:12:45 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @dozba: People are so desperate to give up their liberty, and then they're shocked, SHOCKED when the police/government abuse them."
+"226320538899992578","","","226051406338088961","638323","2012-07-20 14:19:55 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @kneath: Use instance variables in partials to maximize pain."
+"225953449462886401","225952062838566912","14231571","","","2012-07-19 14:01:15 +0000","web","@marcoarment @codinghorror That's crazy ta"
+"225923805837684736","225807679791185921","14231571","","","2012-07-19 12:03:27 +0000","<a href=""http://twicca.r246.jp/"" rel=""nofollow"">twicca</a>","@marcoarment @codinghorror As a general rule, no.  But Google keeps their flagship up to date pretty diligently."
+"225790101979013121","225785456586027008","5637652","","","2012-07-19 03:12:09 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@codinghorror Is there any reason to have it in addition to an iPad and an Android phone?"
+"225789326062133248","","","","","2012-07-19 03:09:04 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","?@codinghorror: I visit reddit for the endless image meme[?], but I stay for the 3 second page load times.? My kingdom for 3 s loads"
+"225777699904438272","225543088880361473","127989749","","","2012-07-19 02:22:53 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@CarolusIV Had a dream about mine today. It had a small toy gun stuck in the barrel and when it came out I couldn?t find you to show you."
+"225092966522433537","","","225079323676254209","8917142","2012-07-17 05:01:59 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @dakami: ""The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology ..."
+"225090938450612224","","","","","2012-07-17 04:53:56 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","?@holman: Drink every time an iPhone app is updated with ?various bug fixes?.? Great now I?ll be blasted for life."
+"224522213078999040","","","224369616137355265","11322372","2012-07-15 15:14:01 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @holman: You Only Commit Once #yoco
+
+Losers rebase, winners blindly push everything upstream #yoco"
+"224285980880945153","","","","","2012-07-14 23:35:19 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","Steamed artichokes. Steamed in a mixture of garlic, bay leaves, and bourbon smoked sea salt."
+"224038621651550208","","","223966187468500992","2384071","2012-07-14 07:12:24 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @timoreilly: ""Building a business doesn't mean getting VC, it means finding customers and making money."" @aliciamorga @women2 #founde ..."
+"223872600655409152","223855370181935104","1676051","","","2012-07-13 20:12:42 +0000","<a href=""http://twicca.r246.jp/"" rel=""nofollow"">twicca</a>","@seanstickle Office 2007 was the last usable Office."
+"223255427360620544","","","223096831737987073","15736190","2012-07-12 03:20:16 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @smashingmag: Ah, an interesting design project: Re-Designing the classic email client - http://t.co/oY6IQnrw","http://bit.ly/MW4HGr"
+"223252358887514115","223086196492992512","14246143","","","2012-07-12 03:08:04 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@rbates Wouldn?t that be @github? http://t.co/4kNGDDaQ","http://github.com/explore"
+"223156229000802304","","","","","2012-07-11 20:46:05 +0000","web","Get paid to not work! http://t.co/IbONfu56","http://www.fullcontact.com/2012/07/10/paid-paid-vacation/"
+"222670534381543424","222662723853500419","15736190","","","2012-07-10 12:36:07 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@smashingmag *cough* @trello *cough*"
+"221781890175221763","","","221751880265637888","55355654","2012-07-08 01:44:57 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @thinkprogress: Texas voter ID law accepts gun licenses, not student IDs http://t.co/W56LL6tX #votersuppression #icymi","http://thkpr.gs/MaUIdA"
+"221707753591283713","221380483152478208","713263","","","2012-07-07 20:50:22 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@defunkt No, thank you @github."
+"220732073386835970","","","220691265610715136","793830","2012-07-05 04:13:21 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @chriscoyier: Here's the symbol you use when you mean ""multiply"" or ""by"":
+
+?
+
+Nicer and more correct than an x.
+
+(also nice for close ..."
+"220577143925637120","","","","","2012-07-04 17:57:43 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","#MERICA Fuck yeah"
+"220526351260717057","","","220500134373494784","17939037","2012-07-04 14:35:53 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @ProfBrianCox: http://t.co/CAxv1Aku","http://havewefoundthehiggsbosonyet.org/"
+"220389262632304642","","","220344639213944832","62959621","2012-07-04 05:31:09 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @bend_boy: @marcoarment Corrupt IPA sounds like a hoppy beer I'd like to try."
+"220341095484239872","","","220203609219006464","713263","2012-07-04 02:19:45 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @defunkt: When Quora asks me to log in to view a response, instead of logging in I just don't use Quora."
+"219989507217440768","219988885550272512","14231571","","","2012-07-03 03:02:40 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@marcoarment You could change the font for lower density screens?"
+"219987500314263553","219976070689062913","793830","","","2012-07-03 02:54:41 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@chriscoyier index.js application.js?"
