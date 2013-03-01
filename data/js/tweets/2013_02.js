@@ -1,5 +1,335 @@
 Grailbird.data.tweets_2013_02 = [
   {
+    "created_at": "Thu Feb 28 13:34:24 +0000 2013",
+    "id": 307121575742816256,
+    "id_str": "307121575742816256",
+    "text": "@drapergeek graphs, amirite?",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 307117522493243392,
+    "in_reply_to_status_id_str": "307117522493243392",
+    "in_reply_to_user_id": 485742305,
+    "in_reply_to_user_id_str": "485742305",
+    "in_reply_to_screen_name": "drapergeek",
+    "user": {
+      "id": 290866979,
+      "id_str": "290866979",
+      "name": "Caleb Thompson",
+      "screen_name": "thompson_caleb",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3039716070/299974144752416ad4650d431d80d691_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "67b98f17fdcf20be",
+      "url": "http://api.twitter.com/1/geo/id/67b98f17fdcf20be.json",
+      "place_type": "city",
+      "name": "Boston",
+      "full_name": "Boston, MA",
+      "country_code": "US",
+      "country": "United States",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.191113,
+              42.22788
+            ],
+            [
+              -70.749455,
+              42.22788
+            ],
+            [
+              -70.749455,
+              42.40082
+            ],
+            [
+              -71.191113,
+              42.40082
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "drapergeek",
+          "name": "Jason Draper",
+          "id": 485742305,
+          "id_str": "485742305",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Thu Feb 28 00:01:54 +0000 2013",
+    "id": 306917102638489600,
+    "id_str": "306917102638489600",
+    "text": "Come Friday, lets all delete our Twitter accounts.",
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 290866979,
+      "id_str": "290866979",
+      "name": "Caleb Thompson",
+      "screen_name": "thompson_caleb",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3039716070/299974144752416ad4650d431d80d691_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Wed Feb 27 23:58:55 +0000 2013",
+    "id": 306916351950336000,
+    "id_str": "306916351950336000",
+    "text": "This way lies madness. https://t.co/uDZhaIWv5x",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 290866979,
+      "id_str": "290866979",
+      "name": "Caleb Thompson",
+      "screen_name": "thompson_caleb",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3039716070/299974144752416ad4650d431d80d691_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uDZhaIWv5x",
+          "expanded_url": "https://twitter.com/tenderlove/status/306911811486224384",
+          "display_url": "twitter.com/tenderlove/sta…",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  {
+    "created_at": "Wed Feb 27 23:54:03 +0000 2013",
+    "id": 306915130434801665,
+    "id_str": "306915130434801665",
+    "text": "I’d like to remind everyone that Congress sets its own salaries, not the President—whose job it is not to set any budgets.",
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 290866979,
+      "id_str": "290866979",
+      "name": "Caleb Thompson",
+      "screen_name": "thompson_caleb",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3039716070/299974144752416ad4650d431d80d691_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Wed Feb 27 20:33:25 +0000 2013",
+    "id": 306864637670998016,
+    "id_str": "306864637670998016",
+    "text": "RT @tenderlove: But seriously. How many times does some dude need to touch my junk before we've defeated the terrorists?",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 290866979,
+      "id_str": "290866979",
+      "name": "Caleb Thompson",
+      "screen_name": "thompson_caleb",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3039716070/299974144752416ad4650d431d80d691_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 27 16:35:47 +0000 2013",
+      "id": 306804834097561602,
+      "id_str": "306804834097561602",
+      "text": "But seriously. How many times does some dude need to touch my junk before we've defeated the terrorists?",
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14761655,
+        "id_str": "14761655",
+        "name": "Aaron Patterson",
+        "screen_name": "tenderlove",
+        "location": "Seattle, WA",
+        "url": "http://tenderlovemaking.com",
+        "description": "ひげの山男。 When I'm not trimming my beard, I'm hanging out with my lady, @ebiltwin.",
+        "protected": false,
+        "followers_count": 13400,
+        "friends_count": 397,
+        "listed_count": 1003,
+        "created_at": "Tue May 13 17:25:31 +0000 2008",
+        "favourites_count": 520,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18491,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3258763887/df012fa9fd6380a354fb4ec916b3c672_normal.jpeg",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3258763887/df012fa9fd6380a354fb4ec916b3c672_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 72,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "urls": [
+
+        ],
+        "user_mentions": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false
+    },
+    "retweet_count": 72,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tenderlove",
+          "name": "Aaron Patterson",
+          "id": 14761655,
+          "id_str": "14761655",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
     "created_at": "Wed Feb 27 02:21:23 +0000 2013",
     "id": 306589817347649538,
     "id_str": "306589817347649538",
