@@ -1,6 +1,6 @@
 var user_details =  {
-  "screen_name" : "thompson_caleb",
-  "location" : "Boston, MA",
+  "screen_name" : "calebthompson",
+  "location" : "Austin, TX",
   "full_name" : "Caleb Thompson",
   "bio" : "You make me touch your hands for stupid reasons.",
   "id" : "290866979",
